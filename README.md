@@ -1,2 +1,2 @@
-# Watch-Dogs2
-Herer it contains A gaming website for Watchdogs 2
+# Game-website
+Welcome to the Game-Website repository! 
